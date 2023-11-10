@@ -1,2 +1,1 @@
-
-# trifunovski81.github.io
+Junior .Net Developer
